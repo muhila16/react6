@@ -1,0 +1,62 @@
+.home {
+    background-image: url('nightsky.jpg');
+    background-size: cover;
+    color: #fff;
+  }
+
+.about {
+    background-image: url('nightsky.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.project {
+    background-image: url('nightsky.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.contact {
+    background-image: url('nightsky.jpg');
+    background-size: cover;
+    color: #fff;
+}
+
+.contact-form {
+    margin: 10px;
+}
+
+body {
+    background-image: url('nightsky.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  .section {
+    padding: 20px;
+    background-color: #ffffff;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar {
+    background-color: #333;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  
